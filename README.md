@@ -5,9 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemlatadixit&label=Profile%20views&color=0e75b6&style=flat" alt="hemlatadixit" /> </p>
 
-- 📫 How to reach me **hemadixit8125@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+
+
+<h3> Here's A Summary Of Myself :- </h3>
+
+- 🔭 I’m currently working on Machine Learning Model DBScan
+- 👯 I’m looking to collaborate on Python Core,Object-Oriented Programming,Data Science,Natural Language Processing , Machine Learning and Deep Learning Projects
+- 🤔 I’m Currently Learning Machine Learning in Python 
+- 💬 Ask me about Python Programming ,File Handling In Python, Machine Learning, Tableu And Sql
+- 📫 How to reach me: hemadixit9125@gmail.com
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,9 +26,20 @@
 <a href="https://www.hackerrank.com/hemlata dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hemlata dixit" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
+
+
+
+## 🛠️ My Skills :
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=for-the-badge)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=for-the-badge)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=for-the-badge)&nbsp;&nbsp;
+![Tableu](https://img.shields.io/badge/-Tableu-black?logo=Tableu&style=for-the-badge)&nbsp;&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws)&nbsp;&nbsp;
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;&nbsp;
+ 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemlatadixit&show_icons=true&locale=en&layout=compact" alt="hemlatadixit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemlatadixit&show_icons=true&locale=en" alt="hemlatadixit" /></p>
