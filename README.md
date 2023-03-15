@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on Python Core,Object-Oriented Programming,Data Science,Natural Language Processing , Machine Learning and Deep Learning Projects
 - 🤔 I’m Currently Learning Machine Learning in Python 
 - 💬 Ask me about Python Programming ,File Handling In Python, Machine Learning, Tableu And Sql
-- 📫 How to reach me: hemadixit9125@gmail.com
+- 📫 How to reach me: hemadixit8125@gmail.com
 </p>
 
 <h3 align="left">Connect with me:</h3>
