@@ -9,10 +9,9 @@
 
 
 
-<h3> Here's A Summary Of Myself :- </h3>
+<h3> Here's a summary of myself :- </h3>
 
 - 🔭  I’m currently learning Python and its libraries like NumPY, Pandas, Matplotlib and Seaborn
-- 👯 I’m looking to collaborate on Python Core,Data Science,Machine Learning Projects
 - 🤔 I’m Currently Learning Machine Learning in Python 
 - 💬 Ask me about Python Programming,Machine Learning, Tableau And Sql
 - 📫 How to reach me: hemadixit8125@gmail.com
