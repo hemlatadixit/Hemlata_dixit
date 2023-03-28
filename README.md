@@ -1,4 +1,10 @@
-# profile<h1 align="center">Hi 👋, I'm Hemlata Dixit</h1>
+#
+<p align="center">
+    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+</p>
+
+
+profile<h1 align="center">Hi 👋, I'm Hemlata Dixit</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
 
 
